@@ -1,0 +1,7 @@
+C:\Users\maxim\source\repos\menu\proyecto_menu\bin\Debug\proyecto_menu.exe.config
+C:\Users\maxim\source\repos\menu\proyecto_menu\bin\Debug\proyecto_menu.exe
+C:\Users\maxim\source\repos\menu\proyecto_menu\bin\Debug\proyecto_menu.pdb
+C:\Users\maxim\source\repos\menu\proyecto_menu\obj\Debug\proyecto_menu.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\menu\proyecto_menu\obj\Debug\proyecto_menu.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\menu\proyecto_menu\obj\Debug\proyecto_menu.exe
+C:\Users\maxim\source\repos\menu\proyecto_menu\obj\Debug\proyecto_menu.pdb
