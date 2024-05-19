@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace menu
 {
@@ -32,15 +28,23 @@ namespace menu
                         if (seleccionarItem > 0)
                         {
                             seleccionarItem--;
-                            menu.Dibujar(1, 1, seleccionarMenu, seleccionarItem);
                         }
+                        else
+                        {
+                            seleccionarItem = menu.ContadorItemMenu(seleccionarMenu) - 1;
+                        }
+                        menu.Dibujar(1, 1, seleccionarMenu, seleccionarItem);
                         break;
                     case ConsoleKey.DownArrow:
                         if (seleccionarItem < menu.ContadorItemMenu(seleccionarMenu) - 1)
                         {
                             seleccionarItem++;
-                            menu.Dibujar(1, 1, seleccionarMenu, seleccionarItem);
                         }
+                        else
+                        {
+                            seleccionarItem = 0;
+                        }
+                        menu.Dibujar(1, 1, seleccionarMenu, seleccionarItem);
                         break;
                     case ConsoleKey.Enter:
                         string opcion = menu.ObtenerOpcion(seleccionarMenu, seleccionarItem);
@@ -52,16 +56,25 @@ namespace menu
                         {
                             seleccionarMenu--;
                             seleccionarItem = 0;
-                            menu.Dibujar(1, 1, seleccionarMenu, seleccionarItem);
                         }
+                        else
+                        {
+                            seleccionarMenu = menu.ContadorMenu();
+                        }
+                        menu.Dibujar(1, 1, seleccionarMenu, seleccionarItem);
                         break;
                     case ConsoleKey.RightArrow:
                         if (seleccionarMenu < menu.ContadorMenu())
                         {
                             seleccionarMenu++;
                             seleccionarItem = 0;
-                            menu.Dibujar(1, 1, seleccionarMenu, seleccionarItem);
+                            
                         }
+                        else
+                        {
+                            seleccionarMenu = 1;
+                        }
+                        menu.Dibujar(1, 1, seleccionarMenu, seleccionarItem);
                         break;
                 }
             }

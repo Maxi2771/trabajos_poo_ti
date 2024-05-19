@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\menu\\",
+  "WorkspaceRootPath": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|c:\\users\\maxim\\source\\repos\\menu\\proyecto_menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|solutionrelative:proyecto_menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|c:\\users\\maxim\\source\\repos\\menu\\proyecto_menu\\menunavegacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\menunavegacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|solutionrelative:proyecto_menu\\menunavegacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|c:\\users\\maxim\\source\\repos\\menu\\proyecto_menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|solutionrelative:proyecto_menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|solutionrelative:proyecto_menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|c:\\users\\maxim\\source\\repos\\menu\\proyecto_menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|solutionrelative:proyecto_menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|c:\\users\\fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E806CD7-61E7-4F0A-87C4-38CF0FC86CF1}|proyecto_menu\\proyecto_menu.csproj|solutionrelative:proyecto_menu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +30,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -50,11 +42,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\menu\\proyecto_menu\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\Program.cs",
               "RelativeDocumentMoniker": "proyecto_menu\\Program.cs",
-              "ToolTip": "C:\\Users\\maxim\\source\\repos\\menu\\proyecto_menu\\Program.cs",
+              "ToolTip": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\Program.cs",
               "RelativeToolTip": "proyecto_menu\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\menu\\proyecto_menu\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\Menu.cs",
               "RelativeDocumentMoniker": "proyecto_menu\\Menu.cs",
-              "ToolTip": "C:\\Users\\maxim\\source\\repos\\menu\\proyecto_menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\Menu.cs",
               "RelativeToolTip": "proyecto_menu\\Menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,26 +68,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MenuNavegacion.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\menu\\proyecto_menu\\MenuNavegacion.cs",
+              "DocumentMoniker": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\MenuNavegacion.cs",
               "RelativeDocumentMoniker": "proyecto_menu\\MenuNavegacion.cs",
-              "ToolTip": "C:\\Users\\maxim\\source\\repos\\menu\\proyecto_menu\\MenuNavegacion.cs",
+              "ToolTip": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\MenuNavegacion.cs",
               "RelativeToolTip": "proyecto_menu\\MenuNavegacion.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T16:22:29.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\menu\\proyecto_menu\\MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\MenuPrincipal.cs",
               "RelativeDocumentMoniker": "proyecto_menu\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\maxim\\source\\repos\\menu\\proyecto_menu\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Fabrizio\\source\\repos\\trabajos_poo_ti\\menu\\proyecto_menu\\MenuPrincipal.cs",
               "RelativeToolTip": "proyecto_menu\\MenuPrincipal.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswD8AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T16:21:50.288Z",
               "EditorCaption": ""
